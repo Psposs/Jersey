@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="Spring-4.3.8.RELEASE" type="spring">
+    <properties version="4.3.8.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-aspects-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-support-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-instrument-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jms-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jdbc-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-messaging-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-orm-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-oxm-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-test-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-apache-client-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-atom-abdera-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-client-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-core-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-guice-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-json-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-multipart-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-server-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-servlet-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-simple-server-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-spring-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jettison-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oauth-client-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oauth-server-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oauth-signature-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-web-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-portlet-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-websocket-4.3.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
