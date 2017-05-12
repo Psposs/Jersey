@@ -1,9 +1,11 @@
 package com.psposs.PoJo;
 
+import java.io.Serializable;
+
 /**
  * Created by chetuan on 2017/5/10.
  */
-public class Java {
+public class Java implements Serializable{
 
     private  String name;
     private String sex;

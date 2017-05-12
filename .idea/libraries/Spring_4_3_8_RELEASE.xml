@@ -44,7 +44,8 @@
       <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.8.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-portlet-4.3.8.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/spring-websocket-4.3.8.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

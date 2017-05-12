@@ -15,7 +15,11 @@
         <servlet-class>com.sun.jersey.spi.spring.container.servlet.SpringServlet</servlet-class>
         <init-param>
                 <param-name>com.sun.jersey.config.property.packages</param-name>
-                <param-value>com.psposs.data</param-value>
+                <param-value>com.psposs.service</param-value>
+        </init-param>
+        <init-param><!--添加jersey对Json的Mapping支持-->
+            <param-name>com.sun.jersey.api.json.POJOMappingFeature</param-name>
+            <param-value>true</param-value>
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>
