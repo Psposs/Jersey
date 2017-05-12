@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cf6d100-5388-45f9-bbf3-add16c4700d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/restFulApi_war_exploded/WEB-INF/classes/com/psposs/PoJo/Java.class" afterPath="$PROJECT_DIR$/out/artifacts/restFulApi_war_exploded/WEB-INF/classes/com/psposs/PoJo/Java.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/restFulApi/com/psposs/PoJo/Java.class" afterPath="$PROJECT_DIR$/out/production/restFulApi/com/psposs/PoJo/Java.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/restFulApi_war_exploded/WEB-INF/classes/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/restFulApi_war_exploded/WEB-INF/classes/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/restFulApi_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/restFulApi_war_exploded/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/restFulApi/web.xml" afterPath="$PROJECT_DIR$/out/production/restFulApi/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/restFulApi/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/test/restFulApi/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1103,7 +1097,7 @@
       <workItem from="1494485335543" duration="77000" />
       <workItem from="1494494485961" duration="3897000" />
       <workItem from="1494554258650" duration="2224000" />
-      <workItem from="1494576494331" duration="3762000" />
+      <workItem from="1494576494331" duration="3845000" />
     </task>
     <task id="LOCAL-00001" summary="post请求">
       <created>1494580303606</created>
@@ -1137,7 +1131,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42273000" />
+    <option name="totallyTimeSpent" value="42356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1924" height="1056" extended-state="0" />
